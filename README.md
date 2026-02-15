@@ -1,4 +1,4 @@
-# School Database Project:  
+# School Database Project :  
 
 ## 📌 Description This project is a relational database for a secondary school. 
 
@@ -9,7 +9,7 @@
 ## ▶ How to Run:
 
 1. Create the database in MySQL.
-2. Import the SQL file.
+2. Import the SQL files.
 3. Run the queries.
 
  ## 👨‍💻 Author Mohammad Al Madani
