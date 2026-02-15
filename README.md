@@ -3,7 +3,7 @@
 ## 📌 Description :
 This project is a relational database for a secondary school.
 
-## 🏗 Database Structure
+## 🏗 Database Structure :
 - Students (Primary Key: Student_id).
 - Instructors (Primary Key: Teacher_id).
 - Subjects (Foreign Key: Teacher_id).
