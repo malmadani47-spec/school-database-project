@@ -9,7 +9,7 @@
 ## ▶ How to Run:
 
 1. Create the database in MySQL.
-2. Import the SQL files.
+2. Import the SQL file.
 3. Run the queries.
 
  ## 👨‍💻 Author Mohammad Al Madani
