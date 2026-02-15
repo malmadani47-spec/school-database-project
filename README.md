@@ -1,15 +1,21 @@
-# School Database Project :  
+# School Database Project :
 
-## 📌 Description This project is a relational database for a secondary school. 
+## 📌 Description :
+This project is a relational database for a secondary school.
 
-## 📚 Tables Included - Students - Teachers - Subjects - Enrollment.
+## 🏗 Database Structure
+- Students (Primary Key: Student_id).
+- Instructors (Primary Key: Teacher_id).
+- Subjects (Foreign Key: Teacher_id).
 
-## 🛠 Technologies Used - MySQL - MySQL Workbench.
+## 🛠 Technologies Used
+- MySQL.
+- MySQL Workbench.
 
-## ▶ How to Run:
-
-1. Create the database in MySQL.
+## ▶ How to Run :
+1. Create the database.
 2. Import the SQL file.
 3. Run the queries.
 
- ## 👨‍💻 Author Mohammad Al Madani
+## 👨‍💻 Author
+Mohammad Al Madani
